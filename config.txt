@@ -1,0 +1,3 @@
+version=2
+download=https://github.com/你的用户名/仓库名/releases/download/v2/libwanHe64.so
+switch=on
