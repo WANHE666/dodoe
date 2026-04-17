@@ -1,3 +1,3 @@
-version=2
+version=1
 download=https://raw.githubusercontent.com/WANHE666/dodoe/main/libwanHe64.so
 switch=on
