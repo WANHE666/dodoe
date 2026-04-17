@@ -1,0 +1,4 @@
+version=2
+download=https://raw.githubusercontent.com/WANHE666/dodoe/main/libwanHe64qt.so
+inject_download=https://raw.githubusercontent.com/WANHE666/dodoe/main/inject
+switch=开
